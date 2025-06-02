@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am currently learning full stack development
 
+![Visitor Count](https://komarev.com/ghpvc/?username=RAHULDAS6009&color=blue)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarkardiptanu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diptanusarkar666@gmail.com) 
