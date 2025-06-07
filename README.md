@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning full stack development
+CSE undergrad 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Sar-Kar666&color=blue)
 
